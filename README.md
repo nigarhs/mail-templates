@@ -1,5 +1,5 @@
 # mail-templates
-https://nigarhs.github.io/mail-templates/hairsaloon/
-https://nigarhs.github.io/mail-templates/kwanzaa/
-https://nigarhs.github.io/mail-templates/redlock/
+https://nigarhs.github.io/mail-templates/hairsaloon/ <br />
+https://nigarhs.github.io/mail-templates/kwanzaa/ <br />
+https://nigarhs.github.io/mail-templates/redlock/ <br />
 https://nigarhs.github.io/mail-templates/thanksgiving/
