@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.main-cover-h1,.main-cover-h3,.main-cover-h5,.main-cover-link,.gallery3-h3,.gallery3-h4,.gallery3-link
+,.gallery1-h3,.gallery1-h4,.gallery1-link,.gallery4-text1,.gallery4-text2,.gallery4-link,.footer-text{
+    text-align: center;
+
+}
+.main-cover-text{
+    margin-top: -298px;
+}
+
+.gallery2,.gallery3,.gallery1{
+    
+    padding-bottom: 15px;
+    background-color: #fff;
+    margin: 85px auto 0 auto;
+    width: 750px;
+}
+
+.gallery1-link a,.gallery2-link a,.gallery3-link a,.gallery4-link a{
+    color: rgb(1, 7, 94);
+    text-decoration: none;
+    font-size: larger;
+}
+
+
+.gallery2-1{
+height: 200px;
+overflow: hidden;
+
+}
+
+.gallery2-1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+
+
+
+.gallery4 img{
+    padding-left: 30px;
+    margin-top: 100px;
+}
+
+
+
+.main-footer-1{
+    background-color:#575e85 ;
+    margin-left: -19px;
+    margin-right: -20px;
+    margin-top: 100px;
+    padding: 40px;
+}
+
+.main-footer-1 img{
+    padding: 5px 190px;
+}
+
+.socials {
+    list-style-type: none;
+    display: inline;
+    
+}
+
+
+
+.main-header,.main-footer1,.main-footer2,.main-cover{
+    background-color: #fbf1eb;
+    padding: 22px;
+    text-align: center;
+
+}
+
+
+.main-menu {
+    list-style-type: none;
+    padding-left: 0;
+
+}
+
+
+.main-menu li{
+    display: inline;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+
+
+.socials {
+    list-style: none;
+}
+
+.socials li{
+    display: inline;
+
+}
+
+.socials li a {
+    color: #000;
+}
